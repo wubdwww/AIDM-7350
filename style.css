@@ -1,0 +1,22 @@
+p{
+    font-size: 25px;
+    color: pink;
+}
+
+p:hover{
+    background-color: yellow;
+}
+
+.hi{
+    color:aqua
+}
+
+.image1:hover{
+    border-radius: 50%;
+}
+.image2:hover{
+    opacity: 0.7;
+}
+.image3:hover{
+    filter:grayscale(80%);
+}
